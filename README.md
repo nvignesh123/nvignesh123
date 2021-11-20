@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vignesh98
 - 👀 I’m interested in Coding and Learning new stuff
 - 🌱 I’m currently working at Intel
-- 💞️ Fell free to use any of the code in my repo if you find it suitable for your needs
+- 💞️ Feel free to use any of the code in my repo if you find it suitable for your needs and after reviewing licenses
 - 📫 How to reach me ...
 
 <!---
