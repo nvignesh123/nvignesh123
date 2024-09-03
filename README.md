@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @vignesh98
 - 👀 I’m interested in Coding and Learning new stuff
 - 🌱 I’m currently working at Intel
-- 💞️ Feel free to use any of the code in my repo if you find it suitable for your needs and after reviewing licenses
-- 📫 How to reach me ...
+- 💞️ Feel free to use any of the code in my repo if you find it suitable for your needs after reviewing licenses
 
 <!---
 vignesh98/vignesh98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
