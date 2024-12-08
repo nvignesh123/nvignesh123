@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vignesh98
+- 👋 Hi, I’m Vignesh N
 - 👀 I’m interested in Coding and Learning new stuff
 - 🌱 I’m currently working at Intel
 - 💞️ Feel free to use any of the code in my repo if you find it suitable for your needs after reviewing licenses
